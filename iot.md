@@ -23,7 +23,7 @@ git add .
 git commit -m "更新笔记"
 
 git push
-
+```
 
 
 写完保存，再执行三条上传命令：
@@ -35,7 +35,7 @@ git add .
 git commit -m "新增Git心得笔记"
 
 git push
-
+```
 运行命令：`git init`
 
 ```c++
@@ -54,7 +54,7 @@ int main()
 
 }
 
-
+```
 
 \\# 三、截图/图片怎么放进去（重点！）
 
